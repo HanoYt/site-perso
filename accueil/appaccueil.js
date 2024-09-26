@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Calcul du temps de chargement
+    // test
     const startTime = performance.now();
     const loaderWrapper = document.getElementById('loader-wrapper');
     const loaderTime = document.getElementById('loader-time');
